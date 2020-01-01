@@ -1,6 +1,15 @@
-package ICDispatch;
-/**
- * Copyright 2013 Johan Risch (johan.risch@gmail.com) and Simon Evertsson (simon.evertsson2@gmail.com)
+package com.studiosoapps.icdispatch;
+
+import android.os.Handler;
+import android.os.Looper;
+
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.concurrent.LinkedBlockingQueue;
+
+/*** Copyright 2013 Johan Risch (johan.risch@gmail.com) and Simon Evertsson (simon.evertsson2@gmail.com)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,14 +23,6 @@ package ICDispatch;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.concurrent.LinkedBlockingQueue;
-
-import android.os.Handler;
-import android.os.Looper;
 
 /**
  * Created by johanrisch on 6/18/13.

@@ -1,4 +1,4 @@
-package ICDispatch;
+package com.studiosoapps.icdispatch;
 
 import java.util.concurrent.BlockingQueue;
 

@@ -1,4 +1,4 @@
-package ICDispatch;
+package com.studiosoapps.icdispatch;
 /**
  * Copyright 2013 Johan Risch (johan.risch@gmail.com) and Simon Evertsson (simon.evertsson2@gmail.com)
  *

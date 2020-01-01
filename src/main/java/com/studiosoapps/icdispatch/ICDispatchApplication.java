@@ -1,4 +1,4 @@
-package ICDispatch;
+package com.studiosoapps.icdispatch;
 /**
  * Copyright 2013 Johan Risch (johan.risch@gmail.com) and Simon Evertsson (simon.evertsson2@gmail.com)
  *
@@ -25,11 +25,11 @@ public class ICDispatchApplication extends Application{
     @Override
     public void onCreate() {
         super.onCreate();
-        sICDispatch = new ICDispatch();
+        sICDispatch = new com.studiosoapps.icdispatch.ICDispatch();
         initICDispatch();
         sICDispatch.initICDispatch();
     }
-    public static boolean executeOn(int queue, ICBlock block){
+    public static boolean executeOn(int queue, com.studiosoapps.icdispatch.ICBlock block){
         return sICDispatch.executeOn(queue,block);
     }
     public static boolean executeMethodOn(int queue,Object instance, String methodName, Object... args) throws NoSuchMethodException{

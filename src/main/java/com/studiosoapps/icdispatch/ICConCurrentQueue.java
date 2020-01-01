@@ -1,4 +1,4 @@
-package ICDispatch;
+package com.studiosoapps.icdispatch;
 /**
  * Copyright 2013 Johan Risch (johan.risch@gmail.com) and Simon Evertsson (simon.evertsson2@gmail.com)
  *
@@ -42,7 +42,7 @@ public class ICConCurrentQueue extends ICQueue {
 
     @Override
     public void run() {
-        ICBlock currentBlock = null;
+      ICBlock currentBlock = null;
 
         while (running) {
             try {
