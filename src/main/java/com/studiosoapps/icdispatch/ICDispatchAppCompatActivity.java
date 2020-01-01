@@ -15,7 +15,7 @@ public class ICDispatchAppCompatActivity extends AppCompatActivity {
     protected static ICDispatch sICDispatch;
 
     @Override
-    public void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         sICDispatch = new ICDispatch();
         initICDispatch();
