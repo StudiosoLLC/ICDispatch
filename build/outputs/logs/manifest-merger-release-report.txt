@@ -25,7 +25,13 @@ uses-sdk
 INJECTED from /Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
 INJECTED from /Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
+INJECTED from /Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
+INJECTED from /Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
 	android:targetSdkVersion
+		INJECTED from /Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
+		ADDED from /Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
+		INJECTED from /Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
+	android:minSdkVersion
 		INJECTED from /Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
 		ADDED from /Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
 		INJECTED from /Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
