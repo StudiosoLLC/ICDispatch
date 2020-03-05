@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--   ~ Copyright (c) Studioso Inc if you are in positon of this material with proper explicit permissions for Studioso Inc then you must destroy this property on your machine -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.studiosoapps.icdispatch"
     android:versionCode="10"

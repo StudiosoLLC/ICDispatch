@@ -1,13 +1,14 @@
 1<?xml version="1.0" encoding="utf-8"?>
-2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.studiosoapps.icdispatch"
-4    android:versionCode="10"
-5    android:versionName="5.9" >
-6
-7    <uses-sdk
-8        android:minSdkVersion="1"
-8-->/Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="29" />
+2<!--   ~ Copyright (c) Studioso Inc if you are in positon of this material with proper explicit permissions for Studioso Inc then you must destroy this property on your machine -->
+3<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+4    package="com.studiosoapps.icdispatch"
+5    android:versionCode="10"
+6    android:versionName="5.9" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="1"
 9-->/Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
-10
-11</manifest>
+10        android:targetSdkVersion="29" />
+10-->/Users/charlieporth/Documents/GitHub/StudentAndroid/ICDispatch/src/main/AndroidManifest.xml
+11
+12</manifest>
