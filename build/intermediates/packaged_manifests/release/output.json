@@ -1,11 +1,11 @@
 {
   "version": 2,
   "artifactType": {
-    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
+    "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
   "applicationId": "com.studiosoapps.icdispatch",
-  "variantName": "debug",
+  "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
@@ -22,7 +22,7 @@
       ],
       "versionCode": 10,
       "versionName": "5.9",
-      "outputFile": "AndroidManifest.xml"
+      "outputFile": "../../library_manifest/release/AndroidManifest.xml"
     }
   ]
 }

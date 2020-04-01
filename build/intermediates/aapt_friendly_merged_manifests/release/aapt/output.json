@@ -1,27 +1,28 @@
 {
-  "version": 1,
+  "version": 2,
+  "artifactType": {
+    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
+    "kind": "Directory"
+  },
   "applicationId": "com.studiosoapps.icdispatch",
-  "variantType": "LIBRARY",
+  "variantName": "release",
   "elements": [
     {
-      "outputType": {
-        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
-      },
-      "apkData": {
-        "type": "MAIN",
-        "splits": [],
-        "versionCode": 10,
-        "versionName": "5.9",
-        "outputFile": "ICDispatch-release.aar",
-        "fullName": "release",
-        "baseName": "release",
-        "dirName": ""
-      },
-      "path": "AndroidManifest.xml",
-      "properties": {
-        "packageId": "com.studiosoapps.icdispatch",
-        "split": ""
-      }
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [
+        {
+          "key": "packageId",
+          "value": "com.studiosoapps.icdispatch"
+        },
+        {
+          "key": "split",
+          "value": ""
+        }
+      ],
+      "versionCode": 10,
+      "versionName": "5.9",
+      "outputFile": "AndroidManifest.xml"
     }
   ]
 }
