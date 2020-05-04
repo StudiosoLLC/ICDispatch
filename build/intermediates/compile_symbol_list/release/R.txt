@@ -387,6 +387,8 @@ int color abc_tint_spinner 0x0
 int color abc_tint_switch_track 0x0
 int color accent_material_dark 0x0
 int color accent_material_light 0x0
+int color androidx_core_ripple_material_light 0x0
+int color androidx_core_secondary_text_default_material_light 0x0
 int color background_floating_material_dark 0x0
 int color background_floating_material_light 0x0
 int color background_material_dark 0x0
@@ -1176,6 +1178,7 @@ int style Theme_AppCompat_Dialog 0x0
 int style Theme_AppCompat_DialogWhenLarge 0x0
 int style Theme_AppCompat_Dialog_Alert 0x0
 int style Theme_AppCompat_Dialog_MinWidth 0x0
+int style Theme_AppCompat_Empty 0x0
 int style Theme_AppCompat_Light 0x0
 int style Theme_AppCompat_Light_DarkActionBar 0x0
 int style Theme_AppCompat_Light_Dialog 0x0
